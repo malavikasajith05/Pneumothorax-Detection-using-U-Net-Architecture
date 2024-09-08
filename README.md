@@ -135,7 +135,3 @@ The model's loss and accuracy curves during training are saved as plots.
 
 ## License
 This project is open-source and available under the MIT License.
-
----
-
-You can replace `path_to_your_image.png` with the actual path to the example image of the predicted mask in your project directory. This will allow the image to render properly in the `README.md` file.

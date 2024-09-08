@@ -1,7 +1,3 @@
-Here's the updated `README.md` with the results section including the image placeholder and metrics:
-
----
-
 # Pneumothorax Detection using U-Net++ Architecture
 
 This project focuses on detecting **Pneumothorax** in lung images using deep learning, specifically using a **U-Net++** architecture for image segmentation.
